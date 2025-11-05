@@ -36,7 +36,7 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 - Creative coding challenges
 
 📫 **Let’s Connect:**  
-- [LinkedIn](https://www.linkedin.com/in/ismailmarkhi)  
+- [LinkedIn](https://www.linkedin.com/ismailmarkhi)  
 - [Email](mailto:ismailmarkhi17@gmail.com)  
 
 😄 **Pronouns:** He / Him  
