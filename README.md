@@ -63,7 +63,7 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=git&logoColor=F05032)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp&logoColor=FB7A24)
 
