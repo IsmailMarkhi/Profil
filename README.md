@@ -63,6 +63,7 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=git&logoColor=F05032)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp&logoColor=FB7A24)
 
@@ -87,10 +88,6 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 
 ### 🔍 What’s Next?
 
-As I continue exploring **full-stack development**, I’m excited to grow my backend skills and dive deeper into JavaScript ecosystems like **React** and **Node.js**. I’m always open to collaboration, feedback, and conversation — let’s build something amazing together!
+As I continue exploring **full-stack development**, I’m excited to grow my backend skills and dive deeper into JavaScript ecosystems like **React** and **Node.js**. I’m always open to collaboration, feedback, and conversation — let’s build something amazing!
 
 ---
-
-<!---
-IsmailMarkhi/IsmailMarkhi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
