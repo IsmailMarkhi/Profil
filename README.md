@@ -2,15 +2,19 @@
   <img src="https://raw.githubusercontent.com/IsmailMarkhi/IsmailMarkhi/main/banner.gif" alt="Ismail Markhi Web Developer Banner" />
 </p>
 
-<h1 align="center">Ismail Markhi | Web Developer</h1>
+<h1 align="center">Ismail Markhi</h1>
 
 <p align="center">
-  Frontend & Backend Web Developer • React • Laravel • Modern UI/UX • Scalable Web Applications
+  Web Developer • UI/UX Focused • React & Laravel
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismailmarkhi">LinkedIn</a> •
-  <a href="mailto:ismailmarkhi17@gmail.com">Email</a> •
+  <strong>I build human-centered web experiences with clean code and modern UI.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismailmarkhi">LinkedIn</a> ·
+  <a href="mailto:ismailmarkhi17@gmail.com">Email</a> ·
   <a href="https://github.com/IsmailMarkhi">GitHub</a>
 </p>
 
@@ -18,81 +22,103 @@
 
 ## 👋 About Me
 
-I’m **Ismail Markhi**, a passionate **Web Developer** focused on building  
-**fast, responsive, and scalable web applications** with clean code and modern design principles.
+Hi, I’m **Ismail Markhi**, a passionate **Web Developer** who cares deeply about  
+**usability, clarity, and clean design**.
 
-I specialize in **Frontend Development** while actively growing my **Backend & Full-Stack skills**.  
-My goal is to create digital products that are not only functional, but also **beautiful, secure, and user-centered**.
+I don’t just build websites —  
+I focus on how users **feel**, **understand**, and **interact** with digital products.
 
-🔹 Strong foundation in **Web Fundamentals**  
-🔹 Experience building **real-world projects**  
-🔹 Constant learner with a growth mindset  
+My mindset:
+- Design first, then code
+- Simple over complex
+- Clean UI, clear logic
+- Real users, real needs
 
 ---
 
-## 💻 Technical Skills (SEO Optimized)
+## 🎨 UI / UX Philosophy
 
-### 🌐 Frontend Development
-- HTML5, CSS3 (Responsive Design)
+> **Great design isn’t about decoration.  
+It’s about clarity, comfort, and confidence.**
+
+I focus on:
+- Intuitive layouts
+- Readable typography
+- Balanced spacing
+- Smooth interactions
+- Responsive behavior on all devices
+
+---
+
+## 💻 Technical Skills
+
+### Frontend Development
+- HTML5, CSS3
 - Tailwind CSS, Bootstrap
 - JavaScript (ES6+)
 - React.js (Hooks, Components, Routing)
 
-### ⚙️ Backend Development
+### Backend Development
 - PHP (Procedural & OOP)
-- Laravel (MVC, Routing, Blade, Auth)
-- MySQL (Database Design & Queries)
+- Laravel (MVC, Blade, Routing, Auth)
+- MySQL (CRUD, relations)
 
-### 🧠 Programming Concepts
-- Clean Code & Best Practices
+### Concepts
+- Responsive Design
 - REST APIs (GET / POST)
-- Authentication & Authorization
 - MVC Architecture
-- Basic Security Concepts
+- Clean Code Practices
+- Basic Security & Validation
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Workflow
 
 - Git & GitHub / GitLab
 - VS Code
 - XAMPP
 - MySQL
-- npm & Vite
-- REST APIs
+- npm, Vite
+- API Testing
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🛍 FeatureShoes – E-Commerce Website
+### 🛍 FeatureShoes — E-Commerce UI
 **Tech:** HTML, CSS, Tailwind  
 🔗 https://github.com/IsmailMarkhi/FeatureShoes  
-✔ Responsive design  
-✔ Modern UI  
-✔ Product-focused layout  
+
+- Responsive layout
+- Modern UI
+- Clean product presentation
+- UX-focused structure
 
 ---
 
 ### 🔐 PHP Authentication System
 **Tech:** PHP, MySQL  
 🔗 https://github.com/IsmailMarkhi/php-auth  
-✔ Login / Register  
-✔ Secure sessions  
-✔ Clean backend logic  
+
+- Login & Register
+- Secure sessions
+- Organized backend logic
+- Simple and readable code
 
 ---
 
 ### 📦 Multi-Step Order Form
 **Tech:** HTML, CSS, JavaScript  
 🔗 https://github.com/IsmailMarkhi/order-form  
-✔ Step-by-step UX  
-✔ Form validation  
-✔ Interactive user flow  
+
+- Step-by-step UX flow
+- Input validation
+- Interactive experience
+- User-friendly navigation
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=IsmailMarkhi&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" />
@@ -103,27 +129,27 @@ My goal is to create digital products that are not only functional, but also **b
 
 ## 🌱 Currently Learning
 
-- Advanced Laravel (Auth, Middleware, APIs)
-- Node.js Basics
-- Full-Stack Project Architecture
+- Advanced Laravel
+- Node.js fundamentals
+- Full-Stack Architecture
 - UI/UX Best Practices
 
 ---
 
 ## 🤝 Open To
 
-- Freelance Web Projects
-- Junior / Internship Opportunities
+- Freelance Projects
+- Internships / Junior Roles
 - Open Source Collaboration
-- Learning with Developers
+- Learning with other developers
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email: **ismailmarkhi17@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/ismailmarkhi  
 
 ---
 
-⭐ *If you like my work, don’t forget to star my repositories!*
+⭐ *If you like my work, feel free to star my repositories.*
